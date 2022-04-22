@@ -1,6 +1,5 @@
-# TUTC
+# TUTC(TOOTSY)
  The Ultimate Text Cleaner
- Read as TOOTSY
 
 # Features
   1. Text Cleaning    
@@ -20,3 +19,6 @@
 
 ## Stop Words
   Stop words are words in a sentence that contribute very less to the meaning of the sentence. Eg: **I am a boy** gets converted to **I boy** where **[am, a]** are stop words and as we can see after removing it the meaning of the sentence doesn't detoriate.
+
+## Libraries used:
+ * [num2words](https://pypi.org/project/num2words/)
