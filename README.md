@@ -21,3 +21,4 @@
 
 ## Libraries used:
  * [num2words](https://pypi.org/project/num2words/)
+ * [nltk](https://pypi.org/project/nltk/)
