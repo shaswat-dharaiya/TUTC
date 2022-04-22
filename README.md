@@ -1,5 +1,4 @@
-# TUTC(TOOTSY)
- The Ultimate Text Cleaner
+# TUTC (TOOTSY) - The Ultimate Text Cleaner 
 
 # Features
   1. Text Cleaning    
